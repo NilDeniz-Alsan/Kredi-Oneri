@@ -15,6 +15,6 @@ Calculation: When the user enters the loan amount and maturity and presses the C
 This code is structured so that users can easily calculate loan payments and see recommended loans based on a specific route.
 ![IMG-20240622-WA0005](https://github.com/NilDeniz-Alsan/Kredi-Oneri/assets/123769095/684726a7-00cc-404d-8411-8bed7fe3ab5d)
 
-#Credit 
+#Credit Options
 ![IMG-20240622-WA0005](https://github.com/NilDeniz-Alsan/Kredi-Oneri/assets/123769095/e7e4f73b-2c57-45e8-b84c-4c81a2966694)
 
